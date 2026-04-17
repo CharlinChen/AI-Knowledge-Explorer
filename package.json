@@ -1,0 +1,7 @@
+{
+  "name": "ai-knowledge-explorer",
+  "workspaces": [
+    "server",
+    "client"
+  ]
+}
