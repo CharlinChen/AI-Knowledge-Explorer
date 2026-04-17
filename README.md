@@ -4,6 +4,8 @@
 
 An interactive knowledge exploration tool powered by LLM. Enter any topic and AI generates structured knowledge pages with conversational deep-dive support.
 
+![Demo](docs/demo.gif)
+
 ## ✨ Features
 
 - 🔍 AI-powered knowledge page generation with streaming output
